@@ -1,8 +1,9 @@
 # redis
 
 # 单机数据库的实现
-
-
+# todo
+http://blog.nosqlfan.com/html/4218.html
+http://redisbook.com/
 # expire key redis 主键失效原理及实现机制
 ## 失效时间的控制
 
